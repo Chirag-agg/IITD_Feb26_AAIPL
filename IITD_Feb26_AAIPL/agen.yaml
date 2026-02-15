@@ -1,0 +1,6 @@
+## Example hyperparameters for answer agent ##
+max_new_tokens: 512
+temperature: 1.0 # Greedy (do_sample=False overrides)
+top_p: 1.0
+repetition_penalty: 1.1
+do_sample: false
